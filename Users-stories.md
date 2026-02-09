@@ -12,7 +12,7 @@
 
 ## 6) As a student, I want to get notified about a deadline 2 weeks before it's due, so I don't forget to complete it on time.
 
-## 7) As a teacher, I want to update lecture timetables incase there is a change of schedule.
+## 7) As a teacher, I want to update lecture timetables in case there is a change of schedule.
 
 
 
